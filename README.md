@@ -12,8 +12,6 @@ ParkSafe is a single-page web app that helps drivers in Delhi find parking spots
 
 The app also ships with a lightweight **Municipal Admin** view for monitoring reported spots, challans, and activity across the city.
 
-> This is a frontend demo/prototype: parking data, reviews, and availability history are seeded with realistic sample data for the Connaught Place / Central Delhi area. It's built to be wired up to a real backend (see [Data Sources](#data-sources) below).
-
 ## Features
 
 - 🗺️ **Interactive map** (Leaflet + Google Maps / Mappls tiles) with color-coded pins for safety level
